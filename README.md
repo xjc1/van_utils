@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### create const
+```
+npm run cook:const
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
