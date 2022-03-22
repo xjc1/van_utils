@@ -1,0 +1,23 @@
+.quickSelect {
+  display: flex;
+  flex: 1;
+  span {
+    display: block;
+    flex: 1;
+  }
+  a {
+    display: block;
+    width: 37px;
+    margin-left: 5px;
+  }
+  .van-field {
+    padding: 0;
+  }
+}
+
+.quickBtn {
+  font-size: 16px;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #999999;
+}
